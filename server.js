@@ -43,7 +43,7 @@ console.log(jsondata);
 
 const options = {
 method:"post",
-//auth:"jeremiah:28b25bb6bea5c242be4adc9793f2a1e9-us7"
+auth:"jeremiah:28b25bb6bea5c242be4adc9793f2a1e9-us7"
 
 };
 const url="https://us7.api.mailchimp.com/3.0/lists/472fced778";
